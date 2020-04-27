@@ -97,9 +97,7 @@ strong {
 
 
 
-.services-section {
-  background-color: rgba(5, 2, 27, 0.103) !important;
-}
+
 
 .go-top,
 .div-up {
@@ -1044,8 +1042,10 @@ h4 {
   color: #adb5bd;
 }
 
+
+
 .block__62849 .block__16443 {
-  background: #fff;
+  background: floralwhite;
   padding: 30px;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -1106,6 +1106,7 @@ h4 {
 .block__62849 .block__16443 p {
   color: #212529;
 }
+
 
 .block__62849 .block__16443:hover {
   top: -20px;
